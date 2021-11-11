@@ -1,6 +1,6 @@
 ### Hola! i'm Karan Kumar! 👋
 
-- 🔭 I’m currently working as Student an at IIT Kharagpur
+- 🔭 I’m currently working as an Student at IIT Kharagpur
 - 🌱 I’m currently learning CP and backend development
 - 👯 I’m looking to collaborate on frontend and backend based project.
 - 🤔 I’m looking for help with ...
